@@ -127,7 +127,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: Li Yue Chen
         # Title of the author to be shown in the profile widget
-        author_title: '@parangninja'
+        author_title: '@flush'
         # Author's current location to be shown in the profile widget
         location: Planet Earth
         # Path or URL to the avatar to be shown in the profile widget
